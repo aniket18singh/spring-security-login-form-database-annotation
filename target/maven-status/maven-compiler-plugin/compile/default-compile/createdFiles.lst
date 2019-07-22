@@ -1,0 +1,5 @@
+com\ip\config\SecurityConfig.class
+com\ip\config\AppConfig.class
+com\ip\web\controller\MainController.class
+com\ip\config\core\SpringSecurityInitializer.class
+com\ip\config\core\SpringMvcInitializer.class
